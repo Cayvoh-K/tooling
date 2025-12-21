@@ -154,4 +154,5 @@ Traffic flow: - **Client traffic**: browser → Web Servers\
 
         mysql -h 172.31.40.139 -u webaccess -p -e "SHOW TABLES;" tooling
     <img width="1145" height="314" alt="Screen Shot 2025-11-21 at 11 19 37" src="https://github.com/user-attachments/assets/3ffb5794-890f-49a2-9b21-f56b5aeb7c91" />
+<img width="1145" height="314" alt="Screen Shot 2025-11-21 at 11 19 37" src="https://github.com/user-attachments/assets/73c0d7b4-c1df-4fe8-952f-b40b34c64fec" />
 
