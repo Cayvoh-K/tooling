@@ -153,5 +153,6 @@ Traffic flow: - **Client traffic**: browser → Web Servers\
 3.  Verify DB:
 
         mysql -h 172.31.40.139 -u webaccess -p -e "SHOW TABLES;" tooling
+<img width="1145" height="314" alt="Screen Shot 2025-11-21 at 11 19 37" src="https://github.com/user-attachments/assets/7ce3d6ed-88da-4e1e-979f-5776d4f62aa8" />
 
 
